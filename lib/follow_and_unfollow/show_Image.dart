@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_listview/model.dart';
+import 'package:flutter_listview/follow_and_unfollow/model.dart';
 
 class ShowImage extends StatelessWidget {
   final Programming programming;
