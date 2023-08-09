@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_listview/follow_and_unfollow/model.dart';
-import 'package:flutter_listview/follow_and_unfollow/show_Image.dart';
+import 'package:flutter_listview/hero_animation_listViewBuilder/model.dart';
+import 'package:flutter_listview/hero_animation_listViewBuilder/show_Image.dart';
 
 class MyHomePage extends StatelessWidget {
   const MyHomePage({super.key});
